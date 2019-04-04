@@ -1,0 +1,1 @@
+data = thingSpeakRead( 750225,'Fields',[1,2],'Readkey','X6UTTDAEBMRAUAB9','NumMinutes',100,'OutputFormat','table')
